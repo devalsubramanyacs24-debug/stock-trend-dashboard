@@ -3,6 +3,8 @@
 A Streamlit dashboard for exploring daily prices, moving averages, and volume
 across eight assets. Built for CodeNova Data Science Task 3.
 
+[Open the live Market Trend Dashboard](https://stock-trend-dashboard-btbq3tphha9io9epzskljk.streamlit.app/)
+
 ## Run locally
 
 1. Install dependencies with `python -m pip install -r requirements.txt`.
